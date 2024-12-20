@@ -1,5 +1,5 @@
-function jogarDados(){
-    return Math.floor (Math.random() * 6 ) + 1 ;
+function jogarDados() {
+  return Math.floor(Math.random() * 6) + 1;
 }
 
 const dado1 = jogarDados();
